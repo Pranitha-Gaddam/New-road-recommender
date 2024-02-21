@@ -1,4 +1,4 @@
-# this is for R2
+# this code is for R2
 from networkx.generators.random_graphs import erdos_renyi_graph
 import networkx as nx
 import matplotlib.pyplot as plt
